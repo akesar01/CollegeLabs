@@ -1,0 +1,39 @@
+                  STOCK MAINTENANCE SYSTEM 
+To provide a complete version of a stock management system and to manage the entire stock management process of a company
+REQUIREMENTS:
+
+(a) Functional Requirements
+      (1)Login: Login is achieved by the stock manager. 
+      (2)Analysis of Goods:
+ 	Finding the expired goods
+ 	Finding the older ones and selling with offer prices
+      (3)Purchasing the goods: Stock manager purchase the good from the company manager.
+      (4)Delivery & Payment: Delivery of goods by the required company and payment settled by the stock   manager.
+
+(b)NON- FUNCTIONAL REQUIREMENTS:
+	i. PERFORMANCE REQUIREMENTS:    
+	Performance requirements define acceptable response times for system
+	functionality
+	Queries shall results within five seconds.
+	ii. MAINTAINABILITY:
+	The system shall utilize interchangeable plugins.
+	The system shall be easily updateable for fixes and patches.
+	The system shall be easy to upgrade   
+i. LOGIN:
+The login is used for security of the customer. The customer logs in with the user name and the password
+of the customer
+
+Analysis:
+ The stock manager analyses the stocks. He identifies the old stocks and the expired goods and also the
+list of items needed.
+
+Old stock clearance:
+The stock manager clears the old stock goods by selling it at a offer price.
+
+Purchase:
+The stock manager purchases the needed goods from the corresponding company in which the
+quotations are selected.
+
+Payment:
+The stock manager pays the bills along with the tax and the goods are delivered by the company
+manager.
