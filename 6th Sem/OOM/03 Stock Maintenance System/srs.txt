@@ -1,5 +1,5 @@
                   STOCK MAINTENANCE SYSTEM 
-To provide a complete version of a stock management system and to manage the entire stock management process of a company
+To provide a complete version of a stock management system and to manage the entire stock maintenance process of a company
 REQUIREMENTS:
 
 (a) Functional Requirements
