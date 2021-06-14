@@ -1,6 +1,8 @@
-Weather,AirTemperature,Humidity,WaterTemperature,Wind,Goes out
-Sunny,Moderate,Normal,Warm,Strong,Yes
-Sunny,High,Normal,Too Warm ,Strong,No
-Rainy,Low,High,Cold,Breezy,No
-Rainy,High,High,Warm,Breezy,Yes
-Snowy,Moderate,Normal,Cold,Strong,Yes
+COLOR,TOUGHNESS,FUNGUS,APPEARANCE,POISONOUS
+Green,Hard,No,Wrinkled,Yes
+Green,Hard,Yes,Smooth,No
+Brown,Soft,No, Wrinkled,No
+Orange,Hard,No,Wrinkled,Yes
+Green,Soft,Yes,Smooth,Yes
+Green,Hard,Yes,Wrinkled,Yes
+Orange,Hard,No,Wrinkled,Yes

@@ -103,7 +103,7 @@ def getaccuracy(testset, predictions):
  
 def main():
 	# filename = 'naivedata.csv'
-	filename = 'heart.csv'
+	filename = 'spanbase.data'
 	splitratio = 0.67
 	dataset = loadcsv(filename)
      
